@@ -1,4 +1,5 @@
-### Hi there 👋
+# 👋 Hi! I'm Nick.
+I'm a product designer passionate about creating intuitive and inclusive digital and physical interfaces. Currently, I'm at Cornell University conducting research on spatial design with virtual reality 🥽 and working on interaction design projects involving ambient intelligence and brain-computer interfaces 🧠🖥️.
 
 <!--
 **nicholasehe/nicholasehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
