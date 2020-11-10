@@ -1,8 +1,4 @@
-👋 Hi! I'm Nick--a product designer passionate about creating intuitive and inclusive digital and physical interfaces. Currently, I'm at Cornell University conducting research on user experience with virtual reality 🥽 and working on interaction design projects involving ambient intelligence and brain-computer interfaces 🧠🖥️.
-
-### **Get in touch**
-  * Personal site: https://nicholasehe.github.io/portfolio/index.html
-  * Dribble: https://dribbble.com/nickhe
+I'm a design student at Cornell University currently conducting VR research on UX and human-computer interaction. I'm passionate about designing inclusive products that positively impact people's lives with my knowledge of UX research methods, front-end UI development, human factors/ergonomics, and usability testing.
 
 <!--
 **nicholasehe/nicholasehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
